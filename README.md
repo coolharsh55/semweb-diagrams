@@ -2,6 +2,7 @@
 Libraries of diagrams and shapes from the semantic
 web domain for [draw.io](https://www.draw.io/).
 To make it easy for people to reuse diagrams seen in resources such as PROV and Graffoo.
+See [list of available diagrams online](https://coolharsh55.github.io/semweb-drawio-libraries/).
 
 ## License
 Work released in the public domain (see unlicense).
